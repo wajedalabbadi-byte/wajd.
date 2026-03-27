@@ -1,2 +1,0 @@
-# wajd.
-play game
